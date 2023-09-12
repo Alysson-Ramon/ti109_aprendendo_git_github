@@ -15,3 +15,6 @@ git add .
 git commit -a -m
 
 -- criando mais um comit no projeto
+git commit  -m "criei o arquivo c.txt e modifiquei o arquivo anotacoes.txt"
+
+-- criei o arquivo desafio.txt para um desafio 
